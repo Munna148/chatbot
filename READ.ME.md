@@ -157,7 +157,7 @@ SOFTWARE.
 
 For any queries or feedback, feel free to reach out:
 
-**Pandavula Karthik**  
-Email: karthikpandavula@gmail.com
-GitHub: [YourGitHubProfile](https://github.com/karthikpandavula)
+**Munna Reddy**  
+Email: reddymunna148@gmail.com
+GitHub: (https://github.com/Munna148)
 
